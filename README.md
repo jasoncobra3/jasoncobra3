@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm [Aniket]A.K.A Jason😉</h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Victory%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Victory Hand Medium-Light Skin Tone" width="25" height="25" />
+<h1 align="center">Hi 👋, I'm [Aniket]A.K.A Jason<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Sunglasses.png" alt="Smiling Face with Sunglasses" width="25" height="25" /><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Victory%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Victory Hand Medium-Light Skin Tone" width="25" height="25" /></h1>
 <h3 align="center">A passionate Machine Learning Developer from India!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jasoncobra3&label=Profile%20views&color=0e75b6&style=flat" alt="jasoncobra3" /> </p>
@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/aniket-nerkar-42193825a/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="https://www.linkedin.com/in/aniket-nerkar-42193825a/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/aniket-nerkar-42193825a/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="https://www.linkedin.com/in/aniket-nerkar-42193825a/" height="40" width="50" /></a>
 <a href="https://kaggle.com/https://www.kaggle.com/jasoncobra3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/jasoncobra3" height="30" width="40" /></a>
 <a href="https://medium.com/https://medium.com/@jasoncobra3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@jasoncobra3" height="30" width="40" /></a>
 </p>
