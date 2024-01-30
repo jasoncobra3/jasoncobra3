@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm [Aniket]A.K.A Jason😉</h1>
+<h1 align="center">Hi 👋, I'm [Aniket]A.K.A Jason😉</h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Victory%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Victory Hand Medium-Light Skin Tone" width="25" height="25" />
 <h3 align="center">A passionate Machine Learning Developer from India!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jasoncobra3&label=Profile%20views&color=0e75b6&style=flat" alt="jasoncobra3" /> </p>
