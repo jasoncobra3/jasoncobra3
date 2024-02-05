@@ -2,7 +2,8 @@
 <p align="center"><img align="center" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="jasoncobra3" /></p>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" />, I'm [Aniket]A.K.A Jason<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Sunglasses.png" alt="#" width="35" height="35" /><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Victory%20Hand%20Medium-Light%20Skin%20Tone.png" alt="#" width="35" height="35" /></h1>
 <h3 align="center">A passionate Machine Learning Developer from India!</h3>
-<p align="right"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" width="400"></p>
+<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/e20822b4282c07ffd010cd05f855a6561d3b62358ca9e607e4901288dd748fcb/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jasoncobra3&label=Profile%20views&color=0e75b6&style=flat" alt="jasoncobra3" /> </p>
 
 - 👨‍💻 All of my projects are available Here [https://aniketnerkar.netlify.app/](https://aniketnerkar.netlify.app/)
