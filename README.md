@@ -18,7 +18,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/aniket-nerkar-42193825a/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="https://www.linkedin.com/in/aniket-nerkar-42193825a/" height="40" width="50" /></a>
 <a href="https://kaggle.com/https://www.kaggle.com/jasoncobra3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/jasoncobra3" height="30" width="40" /></a>
-<a href="https://medium.com/https://medium.com/@jasoncobra3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@jasoncobra3" height="30" width="40" /></a>
+<a href="https://medium.com/https://medium.com/@jasoncobra3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="/@jasoncobra3" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
