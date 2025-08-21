@@ -8,7 +8,7 @@
 
 - 🚀 Crafting impactful **AI & ML** projects that solve real problems.  
 - 🧠 Exploring **Generative AI, RAG & Agentic AI** to push boundaries 🤖✨  
-- 💡 Passionate about turning data into intelligent solutions 📊➡️🧠  
+- 💡 Passionate about turning data into intelligent solutions 📊➡️  
 - ✍️ Sharing insights on AI & Data Science through blogs 📝💻  
 - ⚡ Fun fact: I can spend hours tweaking a single ML model hyperparameter just for the thrill of squeezing out a 1% improvement. 🎯📈  
 - 🌍 Passionate about Open Source AI/ML – love contributing, collaborating, and building tools that make a global impact. 🤝  
