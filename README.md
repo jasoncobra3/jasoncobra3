@@ -75,26 +75,24 @@
 </h3>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/aniket-nerkar-42193825a/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="https://www.linkedin.com/in/aniket-nerkar-42193825a/" height="40" width="50" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/aniket-nerkar-42193825a/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="https://www.linkedin.com/in/aniket-nerkar-42193825a/" height="50" width="50" /></a>
 <a href="https://kaggle.com/https://www.kaggle.com/jasoncobra3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/jasoncobra3" height="30" width="40" /></a>
 <a href="https://medium.com/@jasoncobra3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@jasoncobra3" height="30" width="40" /></a>
+<a href="https://x.com/Jason4725540512?t=4LSN-YcSCESoDjTtFZ7EjQ&s=08" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" alt="@jasoncobra3" height="50" width="50" /></a>
 </p>
 
+<!-- Most Used Languages section with reduced top margin -->
+<div>
+  <p style="margin: 0; padding: 0;">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jasoncobra3&show_icons=true&locale=en&layout=compact" alt="jasoncobra3" style="border: none;"/> 
+    <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/6f564d9a-467a-4bba-ad3a-8527c8ab79ae" width="100" style="border: none; vertical-align: middle;"/>
+    <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" 
+         alt="Chatbot GIF" 
+         width="150" 
+         style="border: none; vertical-align: bottom; margin-left: 10px;"/>
+  </p>
+</div>
 
 
-<table style="border: none; border-collapse: collapse; border-spacing: 0; margin: 0; padding: 0;">
-  <tr>
-    <!-- GitHub Stats -->
-    <td style="border: none; padding: 0; margin: 0;">
-     <p style="margin: 0; padding: 0;"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jasoncobra3&show_icons=true&locale=en&layout=compact" alt="jasoncobra3" style="border: none;"/> <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/6f564d9a-467a-4bba-ad3a-8527c8ab79ae" width="100" style="border: none;">&nbsp;</p>
-    </td>
-    <td style="border: none; padding: 0; margin: 0;">
-      <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" 
-           alt="Chatbot GIF" 
-           width="220" 
-           style="border: none;"/>
-    </td>
-  </tr>
-</table>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800">
