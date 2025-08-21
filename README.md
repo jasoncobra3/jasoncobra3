@@ -74,7 +74,7 @@
 </h3>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/aniket-nerkar-42193825a/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="https://www.linkedin.com/in/aniket-nerkar-42193825a/" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/aniket-nerkar-42193825a/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="https://www.linkedin.com/in/aniket-nerkar-42193825a/" height="50" width="50" /></a>
 <a href="https://kaggle.com/https://www.kaggle.com/jasoncobra3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/jasoncobra3" height="30" width="40" /></a>
 <a href="https://medium.com/@jasoncobra3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@jasoncobra3" height="30" width="40" /></a>
 <a href="https://x.com/Jason4725540512?t=4LSN-YcSCESoDjTtFZ7EjQ&s=08" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" alt="@jasoncobra3" height="50" width="50" /></a>
